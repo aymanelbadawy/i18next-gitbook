@@ -1,3 +1,9 @@
 {
-    "title": "{{what}} in english"
+    "divTitle": "{{what}} in english"
+    "Hello_World": "hello world",
+    "title": "Hello Title",
+    "btnEn": "English",
+    "btnAr": "Arabic",
+    "dir":"ltr",
+    "save":"Save"
 }
