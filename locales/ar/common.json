@@ -1,6 +1,6 @@
 {
     "button": {
-        "save": "{{count}} واحد",
+        "save": "حفظ مرة واحدة",
         "save_plural": "حفظ {{count}} مرات"
     }
 }
